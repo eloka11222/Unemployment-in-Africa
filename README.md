@@ -62,7 +62,7 @@ Africa only boasts of an average of 152,268 LLCs between 2006 and 2020 indicatin
 Between 2006 and 2020, the average adult population saw an upward trend, Conversely, the average government expenditure on education as a percentage of total government expenditure slightly decreased by 0.29% during the same period. This suggests that while the adult population was growing, the relative government spending on education was not keeping pace.
 
 4. **Government Policies**
-   ![](https://github.com/eloka11222/Unemployment-in-Africa/blob/main/Government%20Policies.jpg)
+![](https://github.com/eloka11222/Unemployment-in-Africa/blob/main/Government%20Policies.jpg)
 In 2019, there were 17 African nations that had implemented strategies to combat unemployment, with 6 of these countries having put these strategies into action, and an additional 17 in the process of formulating their own strategies. However, by 2022, the number of African countries with adopted strategies had decreased to just 7, with only 4 countries in the process of developing their own strategies. South Africa was the only country with an operationalized strategy to tackle unemployment.
 The deduction from this is that there has been a significant reduction in the number of African countries that have adopted, operationalized, or are in the process of developing strategies to address unemployment from 2019 to 2022.
 
