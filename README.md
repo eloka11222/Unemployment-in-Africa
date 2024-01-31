@@ -8,6 +8,7 @@ I had the opportunity to join a hackathon which was hosted by 10Alytics, a data 
 ## Problem Statement
 
 ![](unemployment2.jpeg)
+
 African countries continue to face one of their biggest problems, which is unemployment. The topic is complex and has a foundation in elements relating to education, policy, and socioeconomic status. To find insights and ideas that may help mitigate the unemployment situation in Africa, the study used the many datasets that were provided to pinpoint critical areas where improvements need to be made.
 
 ## Key Objectives
@@ -45,6 +46,7 @@ Since I already cleaned the data in excel to great effect, I didn’t need to do
 - In the historical analysis, As at 2021, Africa had the highest number of unemployed workforce for both male and female. An average of over 26% of the global unemployed female workforce were Africans while over 24% of the global unemployed male workforce were Africans. This implies that females have a slightly higher unemployment rate than males
 
 ![](unemployment2.jpg)
+
 - Unemployment rates in Africa have risen since 1991, with a significant increase from 2017 to 2021. This trend coincides with the Increase in the demand for new and emerging skillset which the labour market failed to fill (ILO) and then in 2019, the COVID-19 pandemic, which may have exacerbated unemployment. As of 2021, recovery from the pandemic’s economic impact appears incomplete.
 
 ## Key Factors Contributing to Unemployment
