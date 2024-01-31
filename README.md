@@ -7,7 +7,7 @@ I had the opportunity to join a hackathon which was hosted by 10Alytics, a data 
 
 ## Problem Statement
 
-![](unemployment2.jpg)
+![](unemployment2.jpeg)
 African countries continue to face one of their biggest problems, which is unemployment. The topic is complex and has a foundation in elements relating to education, policy, and socioeconomic status. To find insights and ideas that may help mitigate the unemployment situation in Africa, the study used the many datasets that were provided to pinpoint critical areas where improvements need to be made.
 
 ## Key Objectives
