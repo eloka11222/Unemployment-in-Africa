@@ -1,5 +1,5 @@
 # Unemployment-in-Africa
-[](Introduction.png)
+![](Introduction.png)
 
 ## Introduction
 
@@ -7,7 +7,7 @@ I had the opportunity to join a hackathon which was hosted by 10Alytics, a data 
 
 ## Problem Statement
 
-[](unemployment2.jpg)
+![](unemployment2.jpg)
 African countries continue to face one of their biggest problems, which is unemployment. The topic is complex and has a foundation in elements relating to education, policy, and socioeconomic status. To find insights and ideas that may help mitigate the unemployment situation in Africa, the study used the many datasets that were provided to pinpoint critical areas where improvements need to be made.
 
 ## Key Objectives
@@ -21,7 +21,7 @@ African countries continue to face one of their biggest problems, which is unemp
 - Data Formatting
 
 ## Data Sourcing
-[](datasets.jpg)
+![](datasets.jpg)
 The dataset was provided by the moderator. It included 5 CSV documents and 1 Excel workbook
 
 ## Data Cleaning
@@ -36,33 +36,33 @@ The dataset was provided by the moderator. It included 5 CSV documents and 1 Exc
 - **Filling Blanks** I personally believe that not all blanks should be treated equally. In text columns where blanks occur,  I fill the column with “Others” while in columns where numerical data occur, I fill the columns with 0
 
 ## Modelling
-[](model.jpg)
+![](model.jpg)
 
 Since I already cleaned the data in excel to great effect, I didn’t need to do any work using power query and when I imported the entire folder into power bi, the models were auto-generated with a 1 – to many star schema diagram 
 
 ## Findings
-[](unemployment1.jpg)
+![](unemployment1.jpg)
 - In the historical analysis, As at 2021, Africa had the highest number of unemployed workforce for both male and female. An average of over 26% of the global unemployed female workforce were Africans while over 24% of the global unemployed male workforce were Africans. This implies that females have a slightly higher unemployment rate than males
 
-[](unemployment2.jpg)
+![](unemployment2.jpg)
 - Unemployment rates in Africa have risen since 1991, with a significant increase from 2017 to 2021. This trend coincides with the Increase in the demand for new and emerging skillset which the labour market failed to fill (ILO) and then in 2019, the COVID-19 pandemic, which may have exacerbated unemployment. As of 2021, recovery from the pandemic’s economic impact appears incomplete.
 
 ## Key Factors Contributing to Unemployment
 I was able to isolate three key factors that contribute to unemployment
 
 1. **Electricity Supply**
-[](electricity.jpg)
+![](electricity.jpg)
 while over 80% of residents of other countries have access to electricity, only 42% of Africans have access to electricity, leaving 58% of the continent's residents in the dark. Also, compared to other parts of the world.
 
 2. **Availbability of Companies**
 Africa only boasts of an average of 152,268 LLCs between 2006 and 2020 indicating that the economy of the continent thrives on MSME's which account for over 90% of the continent's Markets.
 
 3. **Population vs Expenditure**
-   [](Expenditure.jpg)
+   ![](Expenditure.jpg)
 Between 2006 and 2020, the average adult population saw an upward trend, Conversely, the average government expenditure on education as a percentage of total government expenditure slightly decreased by 0.29% during the same period. This suggests that while the adult population was growing, the relative government spending on education was not keeping pace.
 
 4. **Government Policies**
-   [](https://github.com/eloka11222/Unemployment-in-Africa/blob/main/Government%20Policies.jpg)
+   ![](https://github.com/eloka11222/Unemployment-in-Africa/blob/main/Government%20Policies.jpg)
 In 2019, there were 17 African nations that had implemented strategies to combat unemployment, with 6 of these countries having put these strategies into action, and an additional 17 in the process of formulating their own strategies. However, by 2022, the number of African countries with adopted strategies had decreased to just 7, with only 4 countries in the process of developing their own strategies. South Africa was the only country with an operationalized strategy to tackle unemployment.
 The deduction from this is that there has been a significant reduction in the number of African countries that have adopted, operationalized, or are in the process of developing strategies to address unemployment from 2019 to 2022.
 
