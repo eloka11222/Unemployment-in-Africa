@@ -79,3 +79,4 @@ The deduction from this is that there has been a significant reduction in the nu
 
 ## Conclusion
 This hackathon tested my skills across different tools and methodologies. It afforded me the opportunity to hone my data analysis and cleaning skills. It also gave me the opportunity to engage and discuss with data professionals on problems that we can all relate with while finding solutions to them.
+you can view and interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTY3MmFmMTMtYjRhZS00Y2UyLWI4OTMtZDlmOTllZjhiN2M4IiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9)
